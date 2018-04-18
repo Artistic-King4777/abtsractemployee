@@ -4,8 +4,8 @@ public class BasePlusCommissionEmployee extends CommissionedEmployee {
 
     private double baseSalary;
 
-    public BasePlusCommissionEmployee(String firstN, String lastN, String sSN, double grossSales, double commissionRate, double baseSalary) {
-        super(firstN, lastN, sSN, grossSales, commissionRate);
+    public BasePlusCommissionEmployee(String firstName, String lastName, String socialSecurityNumber, double grossSales, double commissionRate, double baseSalary, HireDate hireDate) {
+        super(firstName, lastName, socialSecurityNumber, grossSales, commissionRate, hireDate);
         this.baseSalary = baseSalary;
     }
 

@@ -4,18 +4,21 @@ public abstract class Employee {
 
     //instance variables
     private static int count = 0;
-    private String firstName; //firstN
-    private String lastName;  //lastN
-    private final String socialSecurityNumber; //sSN
+    private String firstName;
+    private String lastName;
+    private final String socialSecurityNumber;
+    private HireDate hireDate;
+
 
     //method signature / stubs
     abstract double earnings();
 
     //constructor
-    public Employee(String firstN, String lastN, String sSN) {
-        this.firstName = firstN;
-        this.lastName = lastN;
-        this.socialSecurityNumber = sSN;
+    public Employee(String firstName, String lastName, String socialSecurityNumber, HireDate hireDate) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.socialSecurityNumber = socialSecurityNumber;
+        this.hireDate = hireDate;
         count++;
 
         System.out.printf("Constructed employee %s %s | count=%d%n", firstName, lastName, count);
@@ -49,6 +52,13 @@ public abstract class Employee {
     }
 
 
+    public HireDate getHireDate() {
+        return hireDate;
+    }
+
+    public void setHireDate(HireDate hireDate) {
+        this.hireDate = hireDate;
+    }
 
     //toString Override
     @Override

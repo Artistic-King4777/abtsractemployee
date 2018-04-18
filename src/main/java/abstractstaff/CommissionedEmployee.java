@@ -5,8 +5,8 @@ public class CommissionedEmployee extends Employee {
     private double grossSales;
     private double commissionRate;
 
-    public CommissionedEmployee(String firstN, String lastN, String sSN, double grossSales, double commissionRate) {
-        super(firstN, lastN, sSN);
+    public CommissionedEmployee(String firstName, String lastName, String socialSeecurityNumber, double grossSales, double commissionRate, HireDate hiredate) {
+        super(firstName, lastName, socialSeecurityNumber, hiredate);
         this.grossSales = grossSales;
         this.commissionRate = commissionRate;
     }

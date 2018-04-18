@@ -5,8 +5,8 @@ public class SalariedEmployee extends Employee{
     private double weeklySal; //weekly salary
 
 
-    public SalariedEmployee(String firstN, String lastN, String sSN, double weeklySal) {
-        super(firstN, lastN, sSN);
+    public SalariedEmployee(String firstName, String lastName, String socialSecurityNumber, double weeklySal, HireDate hireDate) {
+        super(firstName, lastName, socialSecurityNumber, hireDate);
         this.weeklySal = weeklySal;
     }
 
@@ -22,6 +22,13 @@ public class SalariedEmployee extends Employee{
     public void setWeeklySal(double weeklySal) {
         this.weeklySal = weeklySal;
     }
+
+
+
+
+
+
+
 
     @Override
     public String toString() {
