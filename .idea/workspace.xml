@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa910e09-cdd2-412d-8ce6-36042622c7c7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstractstaff/BasePlusCommissionEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstractstaff/BasePlusCommissionEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstractstaff/CommissionedEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstractstaff/CommissionedEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstractstaff/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstractstaff/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstractstaff/HourlyEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstractstaff/HourlyEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstractstaff/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstractstaff/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstractstaff/SalariedEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstractstaff/SalariedEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/abstractstaff/BasePlusCommissionEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractstaff/BasePlusCommissionEmployee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/abstractstaff/CommissionedEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractstaff/CommissionedEmployee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/abstractstaff/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractstaff/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/abstractstaff/HourlyEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractstaff/HourlyEmployee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/abstractstaff/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractstaff/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/abstractstaff/SalariedEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractstaff/SalariedEmployee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/employee/BasePlusCommissionEmployee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/employee/CommissionedEmployee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/employee/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/employee/HourlyEmployee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/employee/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/employee/SalariedEmployee.class" beforeDir="false" />
-    </list>
+    <list default="true" id="fa910e09-cdd2-412d-8ce6-36042622c7c7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -290,7 +270,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="1" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
@@ -305,7 +285,7 @@
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.14701803" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.5977809" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info id="UI Designer" order="1" />
